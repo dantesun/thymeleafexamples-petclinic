@@ -42,7 +42,7 @@
 		<!-- Database access -->
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <ehcache.version>2.6.5</ehcache.version>
-        <hsqldb.version>2.2.9</hsqldb.version>
+        <hsqldb.version>2.7.1</hsqldb.version>
 
  		<!-- AOP -->
         <aspectj.version>1.7.2</aspectj.version>
